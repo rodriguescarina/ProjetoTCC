@@ -1,0 +1,16 @@
+{
+  "name": "voluntariado-root",
+  "private": true,
+  "scripts": {
+    "backend": "cross-env FRONTEND_URL=http://localhost:3000 npm --prefix backend run dev",
+    "frontend": "cross-env PORT=3000 REACT_APP_API_URL=http://localhost:5000/api npm --prefix frontend start",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "cross-env": "^7.0.3"
+  },
+  "dependencies": {
+    "mongodb": "^6.19.0"
+  }
+}
