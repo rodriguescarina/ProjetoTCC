@@ -6,7 +6,7 @@ Uma plataforma web moderna e intuitiva que conecta voluntários dispostos a ajud
 
 <br>
 🌟 Reconhecimento: <br>
-Este projeto foi desenvolvido com dedicação e tem como objetivo contribuir genuinamente para o fortalecimento do voluntariado no Brasil. <br>
+Este projeto foi desenvolvido com dedicação e tem como objetivo contribuir genuinamente para o fortalecimento do voluntariado no Brasil. <br><br><br>
 
 ❤️ Agradecimentos Especiais 
 <br><br>
@@ -15,12 +15,12 @@ Este projeto foi desenvolvido com dedicação e tem como objetivo contribuir gen
 👨‍🏫 Prof. Antero Sewaybricker Todesco pela excelente orientação
 
 🏫 Centro Universitário Hermínio Ometto (FHO) pela estrutura e apoio
-<br>
+<br><br>
 <div align="center">
 💙 Desenvolvido com Amor para Criar Impacto Social
   <br><br>
 "A tecnologia deve servir a humanidade. 
 Este projeto é um exemplo de como podemos usar código 
 para criar impacto social positivo."
-<br>
+<br><br>
 — Carina & Julia
